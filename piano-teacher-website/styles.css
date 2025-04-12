@@ -1,0 +1,10 @@
+
+body {
+    /* ...existing code... */
+    text-align: center;
+}
+
+.video iframe {
+    margin: 0 auto;
+    display: block;
+}
